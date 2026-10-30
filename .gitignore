@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.mid
+*.midi
+*.audit.json
+*.ir-audit.json
+evidence/
+test-output/

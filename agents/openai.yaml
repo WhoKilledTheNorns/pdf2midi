@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audited Score to MIDI"
+  short_description: "Convert score PDFs/images into measure-aligned audited MIDI"
+  default_prompt: "Use $audited-score-to-midi to convert this score PDF into a measure-aligned MIDI file with an audit report."
